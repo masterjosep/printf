@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * handle_print - Prints a dispute based on its type
- * @fmt: Formatted string in which to print the arguments.
+ * process_print - Prints a dispute based on its type
+ * @fmt: Formatted string in which to print the disputes.
  * @list: List of disputes to be printed.
  * @ind: ind.
  * @buffer: Buffer array to process print.
